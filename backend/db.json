@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Azul",
+      "price": 1.97
+    },
+    {
+      "id": 1,
+      "name": "Caneta BIC Vermelha",
+      "price": 1.97
+    },
+    {
+      "id": 3,
+      "name": "Caneta BIC Preta",
+      "price": 1.97
+    },
+    {
+      "id": 4,
+      "name": "HeadSet Corsair",
+      "price": 599.99
+    },
+    {
+      "id": 5,
+      "name": "Mouse Corsair",
+      "price": 399.99
+    }
+  ]
+}
